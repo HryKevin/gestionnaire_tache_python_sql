@@ -1,0 +1,1 @@
+INSERT INTO etat (libelle) VALUES ('A faire'), ('En cours'), ('Terminee');
